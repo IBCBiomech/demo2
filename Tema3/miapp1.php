@@ -1,4 +1,5 @@
 <?php
 
-print "hola\n";
+print "Mis archivos de prácticas\n";
+
 ?>
